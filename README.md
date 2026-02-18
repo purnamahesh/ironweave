@@ -2,7 +2,10 @@
 
 A document graph engine with bidirectional links, versioning, and concurrent access.
 
-> **Project 4 of 4** in the Rust learning series. This project teaches you every smart pointer type in Rust's standard library by building something real.
+> **Project 5 of 6** | Prereqs: All four prior projects
+> Sequence: rustcache → rustfault → logforger → plugsmith → **ironweave** → voidforge
+>
+> This project combines everything: ownership (rustcache), error handling (rustfault), lifetimes (logforger), traits (plugsmith). Smart pointers tie it all together.
 
 ## What You're Building
 
